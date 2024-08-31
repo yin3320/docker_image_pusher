@@ -1,4 +1,3 @@
-alpinb
-
+kasmweb/nginx:1.25.3
 
 

@@ -1,5 +1,4 @@
 nginx
-webvirtcloud:latest
-
+emby/embyserver:latest
 
 

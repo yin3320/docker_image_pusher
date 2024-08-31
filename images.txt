@@ -1,5 +1,5 @@
 nginx
-emby/embyserver:latest
+linkease/webvirtcloud:latest
 
 
 

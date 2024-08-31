@@ -1,5 +1,6 @@
 nginx
 linkease/webvirtcloud:latest
+nsp-prod-1/public1
 
 
 
